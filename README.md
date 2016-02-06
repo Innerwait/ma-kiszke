@@ -4,7 +4,7 @@ Move along, these really aren't.<br>This is useless and biased, but I really nee
 <b>Forms:</b><br>
 <a href="https://schema.org/">Schema</a><br>
 Seen as the ultimete dictionary, reference, working draft that aims to<br>
-<ul><li>defines what is</li>
+<ul><li>define what is</li>
 <li>describe how is</li>
 <li>put it into a structure</li>
 <li>define thinking patterns</li>
@@ -17,4 +17,13 @@ Seen as the ultimete dictionary, reference, working draft that aims to<br>
 <br>
 <b>Mechanics.</b> I can't get it right. 
 <br><a href="https://www.youtube.com/watch?v=JhHMJCUmq28">Quantum mechanics primer</a><br>
+<B>TOOLS</B><BR>
+<b>Sources, content, processing</b><br>
+<b>Zgadłam?</br> <br>
+<b>sources</b><br>
+
+<a href="http://www.google.com/intl/es419/insidesearch/features/search/knowledge.html"><b>Knowledge Graph</b></a><BR>
+<b>processing</b><BR>
+<a href:"https://en.wikipedia.org/wiki/Mill%27s_Methods">Mill</a>
+
 
