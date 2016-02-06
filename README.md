@@ -8,7 +8,7 @@ Seen as the ultimete dictionary, reference, working draft.<br>
 <li>describe how is</li>
 <li>put it into a structure</li>
 <li>define thinking patterns</li>
-<li>enable universal comuication suitable for any entity that relies on verbal i/o, humans to humans, humans to machines, likewise</li>
+<li>enable universal commuication suitable for any entity that relies on verbal i/o, humans to humans, humans to machines, likewise</li>
 </UL>
 <br>
 <B><a href="https://developers.google.com/schemas/">As applied by Google</a></b><br>
@@ -16,11 +16,10 @@ Seen as the ultimete dictionary, reference, working draft.<br>
 <a href="http://semanticweb.org/wiki/Main_Page.html">Semantic</a>
 <br>
 Mechanics. I can't get it right. 
-<br>Nutschell quantuum primer
+<br>Quantum mechanics primer
 I need to put some structure together. The objective is to have something built, by mapping resources, documents processes, constructs, methods, pput them against my notions, research possible outcomes and have fun. 
 <br>It may not make sense to anyone else. I don't know what is the proper name or structure here, and I don't want to rely on my imaginations as the only determinant of its state/nature.
 <br>Mind map, prototype, mock-up? I don't really know these terms. 
 well thought,  structured. <>
 I can't define what 
-
 
