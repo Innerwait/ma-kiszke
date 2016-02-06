@@ -17,13 +17,13 @@ Seen as the ultimete dictionary, reference, working draft that aims to<br>
 <br>
 <b>Mechanics.</b> I can't get it right. 
 <br><a href="https://www.youtube.com/watch?v=JhHMJCUmq28">Quantum mechanics primer</a><br>
-<B>TOOLS</B><BR>
+<H1><B>TOOLS</B></H1><BR>
 <b>Sources, content, processing</b><br>
 <b>Zgadłam?</br> <br>
 <b>sources</b><br>
 
 <a href="http://www.google.com/intl/es419/insidesearch/features/search/knowledge.html"><b>Knowledge Graph</b></a><BR>
 <b>processing</b><BR>
-<a href:"https://en.wikipedia.org/wiki/Mill%27s_Methods">Mill</a>
+<a href="https://en.wikipedia.org/wiki/Mill%27s_Methods">Mill</a>
 
 
