@@ -3,7 +3,7 @@ Move along, these really aren't.<br>This is useless and biased, but I really nee
 <br>What I think is important against what IS, if/how important. To what end? Tried here to learn hereabouts and one day use this place as it's meant to. Understand why everything is made here. I gess it's suitable for building. Find out how. Write HTML tags: this is the only practical skill that I have<br> 
 <b>Forms:</b><br>
 <a href="https://schema.org/">Schema</a><br>
-Seen as the ultimete dictionary, reference, working draft.<br>
+Seen as the ultimete dictionary, reference, working draft that aims to<br>
 <ul><li>defines what is</li>
 <li>describe how is</li>
 <li>put it into a structure</li>
